@@ -60,18 +60,46 @@ nav ul li a:hover {
     font-weight: bold;
 }
 
-p{
-    color: rgb(0, 0, 0);
-    background-color: antiquewhite;
+.p1 {
+    border: 10px solid rgb(255, 255, 255);
+    background-color: rgb(225, 225, 225);
+    padding: 15px;
 }
 
 /* Desarrollo web */
 
-tr{
+tr {
     background-color: rgb(236, 236, 236);
 }
 
-td{
+td {
     vertical-align: text-top;
     background-color: rgb(255, 255, 255);
+}
+
+.p2 {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(137, 137, 137);
+    padding: 10px;
+
+}
+
+.tabla2 table {
+    width: 100%;
+    border-collapse: collapse;
+    /* Colapsa bordes para un diseño más limpio */
+}
+
+.tabla2 td {
+    margin-bottom: 0px;
+    /* Espacio debajo de cada celda */
+    padding: 10px;
+    background-color: rgba(154, 154, 154, 0.55);
+    border: 20px solid #ffffff;
+
+}
+
+.tabla2 tr {
+    margin-bottom: 90px;
+    /* Espacio entre filas */
 }
