@@ -138,7 +138,7 @@ td {
 /* Lenguajes HTML*/
 .LenguajePrincipales {
     max-width: 800px;
-    margin: 50px auto;
+    margin: 10px auto;
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
@@ -174,7 +174,10 @@ footer {
     position: relative;
     width: 100%;
 }
-
+.bode_f{
+  border: #575757;
+  margin-block: 20px;
+}
 
 /* botón siguiente página */
 .boton-siguiente {
@@ -191,5 +194,38 @@ footer {
     text-decoration: none;
 }
 
-/* CLASIFICACION */
 
+
+
+/* CLASIFICAIONES */
+
+
+
+.borde_paginas{
+    background-color: #6b6b6b;
+    color: #575757;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 1500px;
+    margin-top: 20px;
+}
+
+.p_frontend{
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.p_frontend p{
+    margin: 5px 0 0;
+    font-size: 16px;
+    font-size: 1em;
+    line-height: 1.90em;
+    font-size: 17px;
+    background-color: #6b6b6b80;
+
+}
