@@ -229,3 +229,47 @@ footer {
     background-color: #6b6b6b80;
 
 }
+
+
+/* importancia en la actualidad */
+
+.p_IA{
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.p_IA p{
+    margin: 5px 0 0;
+    font-size: 16px;
+    font-size: 1em;
+    line-height: 1.90em;
+    font-size: 17px;
+    background-color: #6b6b6b80;
+
+}
+
+
+
+.p_Impor{
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+.p_Impor p{
+    margin: 5px 0 0;
+    font-size: 16px;
+    font-size: 1em;
+    line-height: 1.90em;
+    font-size: 17px;
+    background-color: #6b6b6b80;
+
+}
+
+
+
